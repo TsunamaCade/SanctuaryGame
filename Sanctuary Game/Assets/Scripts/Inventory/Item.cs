@@ -28,5 +28,5 @@ public enum ItemType
 public enum ActionType
 {
     Craft,
-    Plant
+    Place
 }

@@ -11,12 +11,6 @@ public class Vault : MonoBehaviour
 
     [SerializeField] private GameObject text;
 
-
-    void Start()
-    {
-        vaultLayer = ~vaultLayer;
-    }
-
     void Update()
     {
         Vaulting();
