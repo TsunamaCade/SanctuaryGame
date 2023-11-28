@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - UseShovel
+  - UseAxe
+  - UseGrabber
+  - GridHighlight
+  - PreviewSystem
+  - Food
+  - BuildingList
+  - LandBranch
+  - FlyingManager
   layers:
   - Default
   - TransparentFX
@@ -13,12 +22,12 @@ TagManager:
   - UI
   - Vaultable
   - RigidbodyDrop
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - MultiTool
+  - ResourceObject
+  - Plot
+  - PlayerUI
+  - BuildingUI
+  - Home
   - 
   - 
   - 
